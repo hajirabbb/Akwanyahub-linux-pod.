@@ -1,4 +1,4 @@
-# Linux Class Journey 🐧
+# Linux Class Journey gi
 
 Documenting my learning experience through my Linux class, commands, concepts, 
 problems I ran into, and how I solved them.
