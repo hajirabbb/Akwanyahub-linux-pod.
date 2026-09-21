@@ -14,8 +14,8 @@ along the way.
 | [Week 1](logs/week-1.md) | Introduction to Linux — kernel vs. OS, distributions, CLI vs. GUI, package managers |
 
 ## Tools & Environment
-- Distribution: *(add whichever you're using — e.g. Ubuntu, Fedora)*
-- Terminal: *(optional — mention if relevant)*
+- Distribution: *linux mint*
+- Terminal: *bash*
 
 ## About Me
 Hajira, B.Sc. Information Technology student at GCTU.  
